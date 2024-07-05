@@ -1,7 +1,7 @@
 import React from "react";
-import Hamburger from "./icons/hamburger";
-import Search from "./icons/search";
-import Favourite from "./icons/favourite";
+import Hamburger from "./icons/Hamburger";
+import Search from "./icons/Search";
+import Favourite from "./icons/Favourite";
 import ShoppingBag from "./icons/ShoppingBag";
 
 function Navbar() {

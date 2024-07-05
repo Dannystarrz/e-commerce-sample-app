@@ -1,5 +1,4 @@
-import Image from "next/image";
-import Navbar from "./components/Navbar";
+
 import DepartmentCard from "./components/DepartmentCard";
 import EnquiryCard from "./components/EnquiryCard";
 import Hanger from "./components/icons/Hanger";
